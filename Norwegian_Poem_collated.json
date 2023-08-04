@@ -1,0 +1,84 @@
+{
+    "count": 11,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "ce4b0a86-3145-4519-bf2a-903f72df3e86",
+            "collectionId": "Norwegian",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Norwegian/ce4b0a86-3145-4519-bf2a-903f72df3e86_no_Female.mp4"
+        },
+        {
+            "id": "fc73bc20-77d5-4bea-a81e-b1fd09c70979",
+            "collectionId": "Norwegian",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Norwegian/fc73bc20-77d5-4bea-a81e-b1fd09c70979_no_Female.mp4"
+        },
+        {
+            "id": "bc08b80a-d498-4433-b536-75fe96d51e51",
+            "collectionId": "Norwegian",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Norwegian/bc08b80a-d498-4433-b536-75fe96d51e51_no_Female.mp4"
+        },
+        {
+            "id": "81a5bbb8-3dba-464c-bc65-d48a47c1c493",
+            "collectionId": "Norwegian",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Norwegian/81a5bbb8-3dba-464c-bc65-d48a47c1c493_no_Male.mp4"
+        },
+        {
+            "id": "5e69d382-4e0b-4f8f-ae6e-5bcd61cc9b37",
+            "collectionId": "Norwegian",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Norwegian/5e69d382-4e0b-4f8f-ae6e-5bcd61cc9b37_no_Male.mp4"
+        },
+        {
+            "id": "f0f1eb5a-b46a-4e02-be67-4ebff1e9ef72",
+            "collectionId": "Norwegian",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Norwegian/f0f1eb5a-b46a-4e02-be67-4ebff1e9ef72_no_Female.mp4"
+        },
+        {
+            "id": "b2a694b7-80b7-4c5d-b85c-6c452a46547f",
+            "collectionId": "Norwegian",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Norwegian/b2a694b7-80b7-4c5d-b85c-6c452a46547f_no_Male.mp4"
+        },
+        {
+            "id": "ae6d2050-3257-4324-809f-661eba458ce3",
+            "collectionId": "Norwegian",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Norwegian/ae6d2050-3257-4324-809f-661eba458ce3_no_Male.mp4"
+        },
+        {
+            "id": "4b6b4552-393b-4524-a2ef-0320fa1c1c33",
+            "collectionId": "Norwegian",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Norwegian/4b6b4552-393b-4524-a2ef-0320fa1c1c33_no_Female.mp4"
+        },
+        {
+            "id": "a961bde9-634c-4b84-82be-5209e0f19f00",
+            "collectionId": "Norwegian",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Norwegian/a961bde9-634c-4b84-82be-5209e0f19f00_no_Female.mp4"
+        },
+        {
+            "id": "5a8540b3-cbb5-4f84-ad10-550fbc527cfb",
+            "collectionId": "Norwegian",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Norwegian/5a8540b3-cbb5-4f84-ad10-550fbc527cfb_no_Male.mp4"
+        }
+    ]
+}
